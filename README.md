@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Jay!
 
-<!--
-**jayshharma/jayshharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me:
 
-Here are some ideas to get you started:
+ - I'm an Engineering I student at McMaster University
+ - I enjoy creating user experiences with my building blocks of design and development!
+ - Talk to me about UX design, figma, UI libraries and frontend technologies :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 I’m currently learning:
+- ``React``
+- ``Firebase``
+- ``TailwindCSS``
+
+### 📫 Reach me at: 
+- LinkedIn: https://www.linkedin.com/in/jayshharma/
+- Email: sharmj28@mcmaster.ca
