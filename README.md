@@ -4,7 +4,7 @@
 
  - I'm an Engineering I student at McMaster University
  - I enjoy creating user experiences with my building blocks of design and development!
- - Talk to me about UX design, figma, UI libraries and frontend technologies :)
+ - Talk to me about UX design, Figma, UI libraries and frontend technologies
 
 ### 🚀 I’m currently learning:
 - ``React``
