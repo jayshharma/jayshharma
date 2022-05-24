@@ -2,13 +2,12 @@
 
 ### 👋 About Me:
 
- - I'm an Engineering I student at McMaster University
- - I enjoy creating user experiences with my building blocks of design and development!
- - Talk to me about UX design, Figma, UI libraries and frontend technologies
+ - I'm a Software Engineering student at McMaster University.
+ - I enjoy building experiences for social good.
 
 ### 🚀 I’m currently learning:
 - ``React``
-- ``Firebase``
+- ``TypeScript``
 - ``TailwindCSS``
 
 ### 📫 Reach me at: 
