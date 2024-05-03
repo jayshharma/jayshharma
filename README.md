@@ -2,7 +2,7 @@
 
 - 💻 I have completed Software Engineering Internships @ Accenture, OMERS and Deloitte.
 - 🔭 I’m currently studying Software Engineering at McMaster University.
-- ⚡ I'm passionate about Full-stack Development, Cloud Computing, and Tech Consulting.
+- ⚡ I'm passionate about Full-Stack Development, Cloud Computing, and Tech Consulting.
 
 ### 🛠 Languages and Tools :
 Languages: TypeScript/JavaScript, Python, Java, C/C++, HTML, CSS <br/>
