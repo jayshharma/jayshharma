@@ -9,7 +9,7 @@ Languages: TypeScript/JavaScript, Python, Java, C/C++, HTML, CSS <br/>
 Technologies: React, Redux, Next.js, Node.js, Express.js, MongoDB, AWS, SQL, Jest <br/>
 Tools: Figma, Git, Postman, SonarQube, Contentful, Jira, Confluence
 
-### Currently I'm seeking Fall 2024 internships!
+### Currently I'm seeking Winter 2025 internships!
 ### 📫 Reach me at: 
 - LinkedIn: https://www.linkedin.com/in/jayshharma/
 - Email: sharmj28@mcmaster.ca
