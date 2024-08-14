@@ -1,4 +1,4 @@
-### 👋 Hi I'm Jay
+# 👋 Hi I'm Jay
 
 - 💻 I have completed Software Engineering Internships @ Accenture, OMERS and Deloitte.
 - 🔭 I’m currently studying Software Engineering at McMaster University.
