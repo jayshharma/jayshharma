@@ -1,6 +1,6 @@
 # 👋 Hi I'm Jay
 
-- 💻 I have completed Software Engineering Internships @ Accenture, OMERS and Deloitte.
+- 💻 I have completed Software Engineering Internships @ theScore, Accenture, OMERS and Deloitte.
 - 🔭 I’m currently studying Software Engineering at McMaster University.
 - ⚡ I'm passionate about Full-Stack Development, Cloud Computing, and Tech Consulting.
 
